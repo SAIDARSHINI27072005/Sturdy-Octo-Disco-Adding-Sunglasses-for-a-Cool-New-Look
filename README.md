@@ -72,7 +72,8 @@ faceWithGlassesNaive[130:300,150:500]=glassBGR
 plt.imshow(faceWithGlassesNaive[...,::-1])
 ```
 
-![image](https://github.com/user-attachments/assets/3c8711fe-f06e-48ec-8927-d89837bfdd41
+![image](https://github.com/user-attachments/assets/4b257036-64cb-47ac-b168-46439b042745)
+
 
 ```
 glassMask = cv2.merge((glassMask1,glassMask1,glassMask1))
